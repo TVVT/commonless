@@ -1,2 +1,2 @@
 # commonless
-yhd common.less
+common.less
